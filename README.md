@@ -151,6 +151,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri)
 - [CoCo Joystick to USB adapter](https://github.com/wyndec/CoCoJoy2USB)
 - [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards)
+- [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard)
 - [CoCo-FujiNet](https://github.com/djtersteegc/Coco-FujiNet) - Multi-peripheral emulator and WiFi network device
 - [Development Cartridge](https://github.com/topherCantrell/CoCoC64DevCart)
 - [Digital to Analog Joystick Circuit](https://github.com/GadgetReboot/D_A_CoCo_Joystick_Adapter)
