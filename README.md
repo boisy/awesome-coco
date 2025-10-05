@@ -367,6 +367,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Coco Town](https://www.youtube.com/@CocoTownRetro)
 - [Dave's Hobbies](https://www.youtube.com/@daves_hobbies)
 - [I'm a CoCo Nut](https://www.youtube.com/@ImaCoCoNut)
+- [La CoCo Strangiato](https://www.youtube.com/@CoCoNutBob)
 - [Long Branch Never](https://www.youtube.com/@longbranchnever9936)
 - [MrDave6309](https://www.youtube.com/@MrDave6309)
 - [My Drunk Sibling](https://www.youtube.com/@mydrunksibling)
