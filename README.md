@@ -48,6 +48,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 - [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
 - [CoCo 3 Service Manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Service%20Manual%20%28Tandy%29.pdf)
+- [CoCo Graphics File Formats](https://github.com/reyco2000/CoCo-Image-Viewer/blob/main/documentation/COCO-PICS-FORMATS.md) - by Reinaldo Torres
 - [CoCo, GIME and GIME-X Memory Map Reference](https://www.macmess.org/downloads/CoCo%20Hardware%20Reference.pdf) by Tim Lindner
 - [Color Computer PIAs](http://tlindner.macmess.org/wp-content/uploads/2006/09/cocopias-R3.pdf)
 - [Learning the 6809](http://maltedmedia.com/6809/) - by Dennis Bathory Kitsz
