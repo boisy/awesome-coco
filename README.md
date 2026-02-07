@@ -190,6 +190,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) - Apple II emulator
 - [Audio Spectrum Analyzer](https://github.com/ChetSimpson/CoCo-AudioSpectrumAnalyzer) - Disassembly by Chet Simpson
 - [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
+- [CoCo ROMs](https://github.com/tomctomc/coco_roms) - Color Computer ROM disassemblies
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
 - [Defender_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Delphiterm](https://github.com/yggdrasilradio/delphiterm) - Original source code by Rick Adams
