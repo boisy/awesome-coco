@@ -78,6 +78,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### GIME-Z (AC's 8-bit Zone) - FPGA replacement of GIME IC w/ feature enhancements
 
 - [GIME-Z Installation Video](https://youtu.be/zxkgcXt59kU)
+- [GIME-Z Store](https://cocobits.org/products/gime-z-upgrade-for-the-color-computer-3)
 
 ### Decapping Pictures
 
