@@ -372,6 +372,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## YouTube Channels
 
+- [ACs 8-Bit Zone](https://www.youtube.com/@acs8-bitzone651)
 - [Canadian Retro Things](https://www.youtube.com/@CanadianRetroThings)
 - [Coco Town](https://www.youtube.com/@CocoTownRetro)
 - [Dave's Hobbies](https://www.youtube.com/@daves_hobbies)
